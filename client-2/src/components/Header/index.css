@@ -1,0 +1,44 @@
+.navbar-container {
+  background: linear-gradient(rgb(14, 14, 72),rgb(24, 73, 24));
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .website-logo {
+    width: 150px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 100px;
+  }
+  .header-list-items {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    margin-right: 125px;
+  }
+  .home {
+    color: #070707;
+    font-size: 18px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    background: linear-gradient(rgb(67, 47, 22),rgb(255, 253, 253),rgb(86, 46, 72));
+    border-radius: 5px;
+  }
+  .logout-button {
+    background: linear-gradient(rgb(177, 177, 252),white,rgb(123, 149, 123));
+    padding: 10px;
+    border-radius: 16px;
+    color: #4b69ff;
+    font-family: 'Roboto';
+    font-weight: 500;
+    border: none;
+    margin-right: 55px;
+    width: 110px;
+  }
+  .jon-heading {
+    margin-left: 40px;
+  }
+  .link-item {
+    text-decoration: none;
+  }
+  

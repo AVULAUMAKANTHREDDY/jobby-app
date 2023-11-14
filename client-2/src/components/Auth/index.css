@@ -1,0 +1,91 @@
+.jobby-app-container {
+    background: linear-gradient(rgb(62, 83, 62),rgb(115, 115, 139),rgb(144, 163, 104));
+    min-height: 100vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .card-container {
+    background: linear-gradient(rgb(153, 205, 153),rgb(140, 140, 209),rgb(189, 219, 125));
+    border-radius: 20px;
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+  }
+  
+  .form-container {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+     width: 280px; 
+  }
+  
+  .input-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .label {
+    color: #0d0b0d;
+    font-family: 'roboto';
+    margin: 5px;
+    font-size: 16px;
+  }
+  
+  .user-input {
+    color: #2d1bf6;
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid #070707;
+    background: transparent;
+    border-radius: 5px;
+    outline: none;
+  }
+  
+  .login-button {
+    background: linear-gradient(rgb(100, 70, 31),rgb(255, 253, 253),rgb(115, 52, 93));
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+    color: #060606;
+  }
+  
+  .error-msg{
+    color: rgb(255, 0, 247);
+    font-family: "Roboto";
+  }
+
+  .btn-off{
+    background: linear-gradient(rgb(1, 1, 32),white,rgb(1, 29, 1));
+    
+  }
+  .button_icon{
+    border: none;
+    background: none;
+    color: rgb(5, 5, 5);
+  }
+  .passwordcontainer{
+
+    color: #6347fc;
+    border: 1px solid #0b080c;
+    background: transparent;
+    border-radius: 4px;
+    outline: none;
+    padding: 4px;
+    margin: 4px;
+
+  }
+
+  .userpassword{
+   background: none;
+   border: none;
+   outline: none;
+   color:rgb(255, 255, 255);
+  }

@@ -1,0 +1,7 @@
+.job-profile-container{
+    background: linear-gradient(rgb(75, 75, 93),rgb(37, 35, 35),rgb(58, 74, 58));
+    display: flex;
+    justify-content: space-around;
+    padding: 25px;
+    min-height: 100vh;
+}

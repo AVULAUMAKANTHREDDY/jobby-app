@@ -1,0 +1,42 @@
+.similar-list-docs {
+    background: linear-gradient(rgb(109, 109, 168),rgb(163, 156, 156),rgb(118, 162, 118));
+    margin: 20px;
+    padding: 28px;
+    width: 370px;
+    border-radius: 15px;
+  }
+  .logo-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+  .company-logo-url {
+    width: 60px;
+    margin-right: 20px;
+  }
+  .company-logo-title {
+    color: #e7ee5d;
+    font-family: 'Roboto';
+    font-size: 24px;
+    font-weight: 700;
+  }
+  .display-rating {
+    display: flex;
+  }
+  .similar-desc-heading {
+    color: #8afa61;
+    font-size: 24px;
+    font-family: 'Roboto';
+    margin-bottom: 15px;
+  }
+  .similar-desc {
+    color: #102cff;
+    font-size: 16px;
+    font-family: 'Roboto';
+    line-height: 2;
+  }
+  .location-container-flex-justify {
+    display: flex;
+    margin-top: 15px;
+  }
+  
